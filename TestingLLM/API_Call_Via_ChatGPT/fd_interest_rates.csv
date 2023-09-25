@@ -1,0 +1,6 @@
+service_package,price,tenors_start,tenor_end
+Facial,50,2,4
+Massage,80,4,6
+Manicure,30,6,12
+Pedicure,35,6,12
+Spa Package,150,12,24
